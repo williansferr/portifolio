@@ -1,0 +1,147 @@
+
+
+.img-inicial{
+	width: 100%;
+	margin: 0;
+	padding: 0!important;
+	position: relative;
+
+}
+.size-half-row{
+ 	width: 100%;
+ 	height: 100%;
+ 	position: relative;
+ }
+
+.logo{
+ 	margin-top: 1%;
+ 	float: left;
+ 	padding: 0;
+ 	width: 100px; 
+ 	height:100px;	
+ }
+.row-complete{
+ 	width: 100%;
+ 	margin-left: 0%;
+ }
+#row-right{
+	float: right;
+}
+
+.sub-titulo{
+	font-family: 'Cabin Sketch', cursive!important;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+.titulo-2{
+	font-family: 'Cabin Sketch', cursive!important;
+	font-size: 45px;
+	margin-top: 2%;
+	float: left;
+	color: grey;
+
+}.nome-autor{
+	font-family: 'Gugi', cursive!important;
+	font-size: 48px;
+	float: right;
+	margin-top: 3%;
+}
+
+article{
+	padding: 2%;
+}
+.descricoes-imagens{
+	line-height: normal;
+	font-size: 15px;
+}
+
+.legendas-1{
+	text-align-last: center;
+	font-family: 'Neucha', cursive;
+	font-size: 28px;
+}
+.legendas-2{
+	font-size: 15px;
+	text-align-last: center;
+}
+.col-md-4{
+	padding:0.4%!important;
+}
+
+
+.square-02{
+    width: 50%;
+    height: 0%; 
+    padding-bottom: 40%; 
+    float: left;
+    position: relative;
+    background: #02b3e4;
+    margin: 0!important
+}
+.square-2d{
+    width: 50%;
+    height: 0%; 
+    padding-bottom: 40%; 
+    margin: 0!important;
+    float: left;
+    position: relative;
+    background: #2d3c49;
+}
+.square-7d{
+    width: 50%;
+    height: 0%; 
+    padding-bottom: 40%; 
+    float: left;
+    position: relative;
+    background: #7d97ad;
+}
+
+.cor-02:before {
+  content: '';
+  display: inline-block;
+  height: 100%; 
+  vertical-align: middle;
+  margin-right: -0.25em;
+ }
+
+ .cor-2d:before {
+  content: '';
+  display: inline-block;
+  height: 100%; 
+  vertical-align: middle;
+  margin-right: -0.25em;
+ }
+
+ .cor-7d:before {
+  content: '';
+  display: inline-block;
+  height: 100%; 
+  vertical-align: middle;
+  margin-right: -0.25em;
+ }
+ 
+.centered {
+  display: inline-block;
+  vertical-align: middle;
+  width: 80%;
+  background: #222;
+  color: #FFF;
+ }
+ .legenda-color{
+ 	display: inline-block;
+ 	float:left;
+ 	font-size: 23px;
+ }
+ #line-head::after{
+	content: '';
+	width: 100%;
+	height: 4px;
+	display: block;
+	background-color: #BDBDBD;
+ }
+.separacao{
+	padding: 0.2%;
+}
+
